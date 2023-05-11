@@ -1,1 +1,1 @@
-# Curso-em-video-python-world2
+Yesterday, 05/10/2023, I finished the course 'Python 3 - Mundo 2' and I'm glad for got 100% in the final test. I'll continue to study Python, because it's the first Programming Language that I had contact. I don't know so much to write here Lol. I will dissapear again to study and return soon. Take care of your self and smile, even if you are in difficult moments in life.
